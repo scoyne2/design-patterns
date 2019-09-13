@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ad29dcf-4e9d-4f27-9c4e-f5ac3ec186a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 3/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3/CondimentDecorat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3/StarBuzzCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/ChicagoStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/NYStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter4/PizzaTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,16 +15,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1080" />
-    <option name="height" value="659" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1QZYXGnqUJcr2WRNJzyKr6xEWoz" />
   <component name="ProjectLevelVcsManager">
@@ -71,7 +71,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
